@@ -24,7 +24,8 @@
     "react-scroll-up-button": "^1.6.4",
     "react-slick": "^0.25.2",
     "react-toastify": "^6.0.0-rc.2-1",
-    "sass": "^1.26.3"
+    "sass": "^1.26.3",
+    "webpack": "^4.42.0"
   },
   "devDependencies": {
     "@zeit/next-sass": "^1.0.1",
