@@ -1,0 +1,29 @@
+
+
+/** Google font **/
+@font-face {
+    src: url('../fonts/fontin-regular.ttf');
+    font-family: "Fontin";
+}
+
+// Color variables
+$custom:                #a77b4d;
+$custom2:                #3a2cbb;
+$gradation-light:             #47649e;
+$gradation-medium:             #273e6c;
+$gradation-dark:             #273e6c;
+$white:                 #ffffff;
+
+$primary:               #1f2d4e;
+$success:               #46cd93;
+$info:                  #4bbbce;
+$warning:               #fdba45;
+$danger:                #f24734;
+$dark:                  #0f1f3e;
+$light:                 #f8f9fa;
+
+
+$base-font: 14px;
+
+$font-primary: "Fontin", sans-serif;
+$font-secondary: "Fontin", sans-serif;
