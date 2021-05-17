@@ -8,7 +8,7 @@ import sekre from '../images/Sekretariat.jpg';
 import keuangan from '../images/Keuangan.jpg';
 import logistik from '../images/Logistik.jpg';
 import mc from '../images/MC.jpg';
-import padus from '../images/Padus.jpg';
+import padus from '../images/Padus.JPG';
 import propang from '../images/Propang.jpg';
 
 
