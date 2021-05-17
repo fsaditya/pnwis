@@ -1,11 +1,11 @@
 import React from 'react';
 import Slider from 'react-slick';
 
-import swipe1 from '../images/swipe-1.jpg';
-import swipe3 from '../images/swipe-3.jpg';
-import swipe4 from '../images/swipe-4.jpg';
-import swipe6 from '../images/swipe-6.jpg';
-import swipe7 from '../images/swipe-7.jpg';
+import swipe1 from '../images/swipe-1.JPG';
+import swipe3 from '../images/swipe-3.JPG';
+import swipe4 from '../images/swipe-4.JPG';
+import swipe6 from '../images/swipe-6.JPG';
+import swipe7 from '../images/swipe-7.JPG';
 
 
 // Modal Video
